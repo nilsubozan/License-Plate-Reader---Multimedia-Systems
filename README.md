@@ -1,4 +1,4 @@
-# License Plate Recognition using Image Processing and OCR
+# License Plate Recognition Using Image Processing and OCR
 
 
 This project aims to automatically recognize license plates from car images using image processing techniques and Optical Character Recognition (OCR). The LPR system efficiently identifies and extracts license plate information, making it useful for various applications such as parking management, traffic surveillance, and security systems.
